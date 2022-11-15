@@ -1,4 +1,3 @@
-# Python3 program to demonstrate
 # the use of sample() function on the members of class.
   
 # import random 
